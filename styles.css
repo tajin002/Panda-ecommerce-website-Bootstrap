@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(216, 205, 205, 0.836);
+}
+
+.panda-bg{
+    background-color: #FEEAE9;
+}
+.panda-navbar-bg{
+    background-color: rgba(216, 205, 205, 0.836);
+}
